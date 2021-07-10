@@ -6,7 +6,7 @@ title: Mukund Varma
 superuser: true
 
 # Role/position/tagline
-role: Solving biological problems with data and machine learning
+role: Machine Learning x Biology
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a machine learning scientist at Celsius Therapeutics, where I develop ML methods and apply them towards analyzing biological data, understanding disease biology and discovering novel drug targets. I'm broadly interested in the application of ML / statistics towards solving important problems.
@@ -63,7 +63,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm a machine learning scientist at Celsius Therapeutics where I work on developing and applying computational biology and machine learning methods to accelerate drug discovery using single cell RNAseq.
+I'm a machine learning scientist at Celsius Therapeutics where I work on developing and applying computational biology methods to accelerate drug discovery..
 
 Outside of work, I enjoy skiing, rock climbing, science fiction/fantasy and board games. 
 
