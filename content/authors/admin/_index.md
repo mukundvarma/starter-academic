@@ -13,19 +13,20 @@ bio: I'm a machine learning scientist at Celsius Therapeutics, where I develop M
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Computational Biology
-- Genomics
-- Single-cell Transcriptomics
+- Machine learning as applied to biology
+- Unsupervised learning
+- Learning on graphs
+- Single-cell transcriptomics
+- Drug target discovery
 
 # Education to show in About widget
 education:
   courses:
   - course: MS in Physics
-    institution: MIT
+    institution: Massachusetts Institute of Technology
     year: 2015
   - course: BTech in Engineering Physics
-    institution: IIT Bombay
+    institution: Indian Institute of Technology Bombay
     year: 2012
 
 # Social/Academic Networking
