@@ -64,8 +64,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm a machine learning scientist at Celsius Therapeutics where I work on developing and applying computational biology methods to accelerate drug discovery.
+I'm a machine learning scientist at Celsius Therapeutics where I work on developing and applying computational biology methods to accelerate drug discovery. Prior to this, I was at Asimov, working on computational biophysics models of transcription and translation in the context of synthetic biology. And going back to ancient times, I was in the Xavier lab at the Broad Institute, developing pipelines and analyzing biological datasets to better understand gut diseases and immunology.
 
 Outside of work, I enjoy skiing, rock climbing, science fiction/fantasy and board games. 
 
-The easiest way to get in touch with me is via LinkedIn or email: mmv1301 [at] gmail.
+The easiest way to get in touch with me is via LinkedIn.
