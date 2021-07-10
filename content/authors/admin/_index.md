@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm a machine learning scientist at Celsius Therapeutics where I work on developing and applying computational biology methods to accelerate drug discovery..
+I'm a machine learning scientist at Celsius Therapeutics where I work on developing and applying computational biology methods to accelerate drug discovery.
 
 Outside of work, I enjoy skiing, rock climbing, science fiction/fantasy and board games. 
 
